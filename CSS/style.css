@@ -125,7 +125,7 @@ input:focus {
 
 /* registrar */ 
 
-#register-container p {
+#register-container  {
     margin-bottom: 20px;
     text-align: center;
 }
